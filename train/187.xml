@@ -1,0 +1,26 @@
+<annotation>
+	<folder>inet</folder>
+	<filename>187.jpg</filename>
+	<path>H:\lpr_dataset\dataset_lpr_1\inet\187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>238</ymin>
+			<xmax>472</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
